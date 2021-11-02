@@ -1,0 +1,9 @@
+@media screen and (max-width: 400px) {
+    .header_menu{
+        display: none;
+    }
+    .header_logo img{
+        width: 50px;
+    }
+
+}
